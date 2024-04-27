@@ -1,0 +1,24 @@
+{
+  "name": "slide-controller",
+  "version": "1.0.0",
+  "description": "Slide Controller",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Eduardo",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^30.0.0"
+  },
+  "dependencies": {
+    "node-key-sender": "^1.0.11"
+  }
+}
